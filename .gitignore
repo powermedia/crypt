@@ -10,3 +10,11 @@ deps/
 Session.vim
 .netrwhist
 *~
+
+# output:
+c_src/*.o
+c_src/*.d
+
+# rebar3:
+_build/
+rebar.lock
